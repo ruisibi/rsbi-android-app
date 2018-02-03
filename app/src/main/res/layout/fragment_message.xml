@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <lib.homhomlib.design.SlidingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/empty_slidingLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:sliding_mode="both"
+        app:background_view="@layout/bg_sliding_layout"
+        android:visibility="gone">
+        <com.ruisi.bi.app.view.EmptyView
+            android:id="@+id/ev_empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            />
+    </lib.homhomlib.design.SlidingLayout>
+
+    <lib.homhomlib.design.SlidingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/slidingLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:sliding_mode="both"
+        app:background_view="@layout/bg_sliding_layout">
+        <com.yydcdut.sdlv.SlideAndDragListView
+            android:id="@+id/lv_message"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:divider="#f0f0f0"
+            android:dividerHeight="2dp"
+            android:footerDividersEnabled="true">
+        </com.yydcdut.sdlv.SlideAndDragListView>
+
+    </lib.homhomlib.design.SlidingLayout>
+
+
+</LinearLayout>

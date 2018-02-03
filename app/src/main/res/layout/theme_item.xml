@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/boarding_list_item_click_style"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/cb_contacts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="11dp"
+            android:background="@drawable/check_box_bg"
+            android:button="@null"
+            android:focusable="false"
+            android:gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/tv_contacts_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:paddingLeft="5dip"
+            android:singleLine="true"
+            android:text="you"
+            android:textColor="#434B54"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/noClick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_alignTop="@id/head"
+        android:layout_alignBottom="@id/head"
+        android:visibility="gone"
+        android:alpha="0.6"
+        android:orientation="vertical">
+    </LinearLayout>
+
+</RelativeLayout>

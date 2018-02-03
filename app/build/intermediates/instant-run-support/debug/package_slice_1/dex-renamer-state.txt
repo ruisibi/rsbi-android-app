@@ -1,0 +1,4 @@
+#Sun Jan 28 20:05:56 CST 2018
+base.0=E\:\\work\\MobileBI\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\115
+path.0=classes.dex
+renamed.0=classes.dex

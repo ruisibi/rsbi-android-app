@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ExpandableListView
+        android:id="@+id/ThemeFragment_listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="@android:color/transparent"
+        android:childDivider="#F4F4F4"
+        android:clickable="true"
+        android:descendantFocusability="blocksDescendants"
+        android:divider="#F4F4F4"
+        android:dividerHeight="2dp"
+        android:fadingEdge="none"
+        android:focusable="true"
+        android:groupIndicator="@null"
+        android:listSelector="@android:color/transparent"
+        android:scrollbars="none" >
+    </ExpandableListView>
+
+</LinearLayout>

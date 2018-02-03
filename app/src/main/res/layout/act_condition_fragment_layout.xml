@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:background="#1daef1" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="数据透视"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/title_"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="数据配置"
+                android:textColor="@android:color/white"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:paddingLeft="11dp"
+            android:src="@drawable/back_icon" />
+
+        <Button
+            android:id="@+id/save_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="11dp"
+            android:background="@mipmap/save_icon"
+            android:onClick="onClick" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom"
+         android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="11dp"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <Button
+            android:id="@+id/tofrom"
+             android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="11dp"
+            android:layout_weight="1"
+            android:background="@drawable/yuanjiao_bj"
+            android:onClick="onClick"
+            android:text="表格"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/totu"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/yuanjiao_bj"
+            android:onClick="onClick"
+            android:text="图表"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom"
+        android:layout_below="@id/top"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:padding="11dp" >
+
+            <TextView
+                android:id="@+id/ConditionFragment_Weidu"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="11dp"
+                android:text="查询条件"
+                android:textColor="#434A54"
+                android:textSize="14sp" />
+
+            <Button
+                android:id="@+id/ConditionFragment_Weidu_actv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="11dp"
+                 android:background="@drawable/yellow_button_bj"
+            android:paddingLeft="11dp"
+            android:paddingRight="11dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+                android:text="添加"
+                android:textColor="@drawable/add_button_style"
+                android:textSize="12sp" />
+
+            <ListView
+                android:id="@+id/ConditionFragment_Weidu_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="11dp"
+                android:layout_marginTop="11dp"
+                android:layout_toLeftOf="@id/ConditionFragment_Weidu_actv"
+                android:layout_toRightOf="@id/ConditionFragment_Weidu"
+                android:background="@color/white" >
+            </ListView>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F1F1F1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="11dp"
+            android:padding="11dp" >
+
+            <LinearLayout
+                android:id="@+id/ConditionFragment_Weidu_hang_layout"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="11dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Weidu_hang"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="行标签"
+                        android:textColor="#434A54"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Weidu_hangs"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(横轴)"
+                        android:textColor="#434A54"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ConditionFragment_Weidu_hang_actv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="11dp"
+                android:background="@drawable/yellow_button_bj"
+             android:paddingLeft="11dp"
+            android:paddingRight="11dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+                android:text="添加"
+                android:textColor="@drawable/add_button_style"
+                android:textSize="12sp" />
+
+            <ListView
+                android:id="@+id/ConditionFragment_Weidu_hang_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="11dp"
+                android:layout_marginTop="11dp"
+                android:layout_toLeftOf="@id/ConditionFragment_Weidu_hang_actv"
+                android:layout_toRightOf="@id/ConditionFragment_Weidu_hang_layout"
+                android:background="@color/white" >
+            </ListView>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F1F1F1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="11dp"
+            android:padding="11dp" >
+
+            <LinearLayout
+                android:id="@+id/ConditionFragment_Weidu_lie_layout"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="11dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Weidu_lie"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="列标签"
+                        android:textColor="#434A54"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Weidu_lies"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(图例)"
+                        android:textColor="#434A54"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ConditionFragment_Weidu_lie_actv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="11dp"
+               android:background="@drawable/yellow_button_bj"
+             android:paddingLeft="11dp"
+            android:paddingRight="11dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+                android:text="添加"
+                android:textColor="@drawable/add_button_style"
+                android:textSize="12sp" />
+
+            <ListView
+                android:id="@+id/ConditionFragment_Weidu_lie_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="11dp"
+                android:layout_marginTop="11dp"
+                android:layout_toLeftOf="@id/ConditionFragment_Weidu_lie_actv"
+                android:layout_toRightOf="@id/ConditionFragment_Weidu_lie_layout"
+                android:background="@color/white" >
+            </ListView>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F1F1F1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_marginTop="11dp"
+            android:padding="11dp" >
+
+            <LinearLayout
+                android:id="@+id/ConditionFragment_Zhibiao_layout"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="11dp"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Zhibiao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="指   标"
+                        android:textColor="#434A54"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/ConditionFragment_Zhibiaos"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="(纵轴)"
+                        android:textColor="#434A54"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/ConditionFragment_Zhibiao_actv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="11dp"
+                 android:background="@drawable/yellow_button_bj"
+            android:paddingLeft="11dp"
+            android:paddingRight="11dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+                android:text="添加"
+                android:textColor="@drawable/add_button_style"
+                android:textSize="12sp" />
+
+            <ListView
+                android:id="@+id/ConditionFragment_Weidu_zhibiao_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="11dp"
+                android:layout_marginTop="11dp"
+                android:layout_toLeftOf="@id/ConditionFragment_Zhibiao_actv"
+                android:layout_toRightOf="@id/ConditionFragment_Zhibiao_layout"
+                android:background="@color/white" >
+            </ListView>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F1F1F1" />
+    </LinearLayout>
+
+</RelativeLayout>

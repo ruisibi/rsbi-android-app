@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="8dp" >
+
+    <CheckBox
+        android:id="@+id/spinner_item_checked_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/check_box_bg"
+        android:button="@null"
+        android:enabled="false"
+        android:focusableInTouchMode="false"
+        android:focusable="false" />
+
+    <TextView
+        android:id="@+id/spinner_item_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="11dp"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+</LinearLayout>

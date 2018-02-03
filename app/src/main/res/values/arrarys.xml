@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menus_name">
+        <item >个人信息</item>
+        <item >注销</item>
+    </string-array>
+    <string-array name="menus_icon">
+        <item >@mipmap/zhuxiao_icon</item>
+        <item >@mipmap/xiugai_mima</item>
+    </string-array>
+     <string-array name="select_tu">
+        <item >曲线图</item>
+        <item >柱形图</item>
+         <item >饼图</item>
+          <item >条形图</item>
+          <item >雷达图</item>
+    </string-array>
+    <string-array name="dialog_spinner_resource">
+        <item>&lt;</item>
+        <item>&lt;=</item>
+        <item>&gt;</item>
+        <item>&gt;=</item>
+        <item>=</item>
+        <item>!=</item>
+        <item>between</item>
+    </string-array>
+</resources>

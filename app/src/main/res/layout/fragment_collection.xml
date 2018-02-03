@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <com.yydcdut.sdlv.SlideAndDragListView
+        android:id="@+id/lv_collection"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#f0f0f0"
+        android:dividerHeight="2dp"
+        android:background="@color/white"
+        android:footerDividersEnabled="true">
+    </com.yydcdut.sdlv.SlideAndDragListView>
+
+    <com.ruisi.bi.app.view.EmptyView
+        android:id="@+id/ev_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"/>
+</LinearLayout>

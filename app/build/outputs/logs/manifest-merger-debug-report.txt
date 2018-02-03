@@ -1,0 +1,494 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+MERGED from [com.yydcdut.sdlv:sdlv:0.5.4] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sdlv-0.5.4.aar\023cde6cc14b92174d6a3e6968b4c83e\AndroidManifest.xml:2:1-15:12
+MERGED from [com.bigkoo:pickerview:2.0.8] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\pickerview-2.0.8.aar\66fa545876a22a8ca665844666ccb47e\AndroidManifest.xml:2:1-11:12
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\2d709a3d28ac1768b7e3e811616fd9af\AndroidManifest.xml:2:1-11:12
+MERGED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:2:1-14:12
+MERGED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:2:1-41:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:1-206:12
+	package
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:5:5-36
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yydcdut.sdlv:sdlv:0.5.4] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sdlv-0.5.4.aar\023cde6cc14b92174d6a3e6968b4c83e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yydcdut.sdlv:sdlv:0.5.4] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sdlv-0.5.4.aar\023cde6cc14b92174d6a3e6968b4c83e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.bigkoo:pickerview:2.0.8] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\pickerview-2.0.8.aar\66fa545876a22a8ca665844666ccb47e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:pickerview:2.0.8] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\pickerview-2.0.8.aar\66fa545876a22a8ca665844666ccb47e\AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\2d709a3d28ac1768b7e3e811616fd9af\AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:android-segmented:1.0.6] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\android-segmented-1.0.6.aar\2d709a3d28ac1768b7e3e811616fd9af\AndroidManifest.xml:7:5-9:41
+MERGED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:5:5-7:41
+MERGED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:5:5-7:41
+MERGED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+		INJECTED from E:\work\MobileBI\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:10:2-77
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:10:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CAMERA
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:19:22-67
+uses-permission#android.permission.INTERNET
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:34:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:35:5-88
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:35:22-85
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:36:5-76
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:36:22-73
+application
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:40:5-204:19
+MERGED from [com.yydcdut.sdlv:sdlv:0.5.4] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sdlv-0.5.4.aar\023cde6cc14b92174d6a3e6968b4c83e\AndroidManifest.xml:12:5-13:19
+MERGED from [com.yydcdut.sdlv:sdlv:0.5.4] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sdlv-0.5.4.aar\023cde6cc14b92174d6a3e6968b4c83e\AndroidManifest.xml:12:5-13:19
+MERGED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:9:5-12:19
+MERGED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:9:5-12:19
+	android:supportsRtl
+		ADDED from [homhomlin.lib:sldinglayout:0.9.0] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\sldinglayout-0.9.0.aar\db6ccd333573eb8f91559083fff7e00c\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:43:9-41
+	android:icon
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:42:9-45
+	android:allowBackup
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:41:9-35
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:44:9-58
+activity#com.ruisi.bi.app.WelecomActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:46:9-56:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:49:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:48:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:47:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:54:27-74
+activity#com.ruisi.bi.app.MenuActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:57:10-62:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:61:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:58:13-57
+activity#com.ruisi.bi.app.LoginActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:63:10-68:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:66:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:65:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:64:13-58
+activity#com.ruisi.bi.app.Webviewactivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:69:10-74:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:72:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:73:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:71:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:70:13-60
+activity#com.ruisi.bi.app.BaoBiaoListActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:75:10-80:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:78:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:79:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:77:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:76:13-64
+activity#com.ruisi.bi.app.AnalysisActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:81:9-87:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:85:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:86:13-45
+	android:launchMode
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:83:13-44
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:84:13-44
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:82:13-61
+activity#com.ruisi.bi.app.BaobiaoMuluAcitvity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:88:9-93:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:92:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:89:13-64
+activity#com.ruisi.bi.app.ConditionAcitivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:94:10-100:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:97:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:99:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:96:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:95:13-63
+activity#com.ruisi.bi.app.FormActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:101:10-106:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:104:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:105:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:103:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:102:13-57
+activity#com.ruisi.bi.app.TuActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:107:10-112:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:110:14-51
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:111:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:109:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:108:14-56
+activity#com.ruisi.bi.app.SaveDataListctivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:113:10-118:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:116:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:117:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:115:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:114:13-64
+activity#com.ruisi.bi.app.UserMsgActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:119:10-124:20
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:122:14-50
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:123:13-45
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:121:14-50
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:120:13-60
+activity#com.ruisi.bi.app.PushSettingListActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:125:9-128:34
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:128:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:126:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:125:19-58
+activity#com.ruisi.bi.app.PushCreateActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:129:9-132:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:132:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:130:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:129:19-53
+activity#com.ruisi.bi.app.PushCreateSettingActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:133:9-136:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:136:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:134:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:133:19-60
+activity#com.ruisi.bi.app.MessageDetailActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:137:9-140:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:139:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:140:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:138:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:137:19-56
+activity#com.ruisi.bi.app.PushConditionActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:141:9-144:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:144:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:142:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:141:19-56
+activity#com.ruisi.bi.app.DataInputActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:145:9-148:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:148:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:145:19-52
+activity#com.ruisi.bi.app.SystemHelperActivity
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:149:9-152:35
+	android:screenOrientation
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:152:13-32
+	android:theme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:150:13-49
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:149:19-55
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:156:9-169:20
+	android:process
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:157:13-44
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:156:19-83
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:158:13-168:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:159:17-79
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:159:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:160:17-79
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:160:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:161:17-97
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:161:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:162:17-91
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:162:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:164:17-78
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:164:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:165:17-77
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:165:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:166:17-87
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:166:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:167:17-90
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:167:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:171:9-181:20
+	android:process
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:172:13-44
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:171:19-84
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:173:13-176:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:174:17-86
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:174:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:175:17-89
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:175:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:177:13-180:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:178:17-80
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:178:25-77
+data
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:179:17-50
+	android:scheme
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:179:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:182:9-187:19
+	android:process
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:183:13-44
+	android:exported
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:182:75-98
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:182:18-74
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:184:13-186:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:185:17-92
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:185:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:189:9-190:39
+	android:exported
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:190:13-36
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:189:18-77
+receiver#com.ruisi.bi.app.common.PushReceiver
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:193:9-202:20
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:193:19-54
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:194:13-201:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:196:17-87
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:196:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:198:17-87
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:198:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:200:17-98
+	android:name
+		ADDED from E:\work\MobileBI\app\src\main\AndroidManifest.xml:200:25-95
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.9] C:\Users\hq\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.9.aar\ca0a5cc2e7eb617e08ed53daefa1f764\AndroidManifest.xml:39:22-90

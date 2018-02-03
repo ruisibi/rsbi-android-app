@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_selector_pickerview_btn.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_layout_basepickerview.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pickerview_options.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_radio_unchecked.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\radio_unchecked.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_pickerview_time.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_radio_checked.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_button_text_color.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_include_pickerview_topbar.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\include_pickerview_topbar.xml"
+    }
+]

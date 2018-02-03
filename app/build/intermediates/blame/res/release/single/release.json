@@ -1,0 +1,898 @@
+[
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_push_condition.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_push_condition.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_function_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_function_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_input_right02.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\input_right02.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_message_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_message_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_chaxunyiyou.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\chaxunyiyou.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_right.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_shaixuan.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\shaixuan.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_push_kpi.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_push_kpi.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_welecome_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\welecome_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_menu.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\sel_menu.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_appyue.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\appyue.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xxhdpi\\btn_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_act_analysis_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\act_analysis_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_basepickerview.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_delete_view.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\layout_delete_view.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_setting_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\setting_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_delete_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\delete_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_collection_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\collection_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_data_input.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_data_input.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_left_arrow_gray.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\left_arrow_gray.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_value_popowindow_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\value_popowindow_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_exit_view.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\layout_exit_view.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_collection_cancel.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\btn_collection_cancel.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_push_time.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_push_time.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_message.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_message.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_function_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_function_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_listview_chart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_listview_chart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_barchart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_barchart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_cross.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_edit_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_baobiao_mulu_layout_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\baobiao_mulu_layout_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_message_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_message_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_activity_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_scatterchart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_scatterchart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_left_arrow_gray.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\left_arrow_gray.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_message.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_radio_checked.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\radio_checked.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_username_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\username_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_input_edittext_bj.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\input_edittext_bj.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_message.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_leida_fragment.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_leida_fragment.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_save.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_menu_list.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_menu_list.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_main_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_pickerview_time.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_left_arrow_gray.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\left_arrow_gray.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_delete_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\delete_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_push_create_setting.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_push_create_setting.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_learn_note_right.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\learn_note_right.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_check_box_bg.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\check_box_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_pwd_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\pwd_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_custom_marker_view.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\custom_marker_view.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_atc_login_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\atc_login_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_frag_simple_pie.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\frag_simple_pie.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_message_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_message_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_message.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_message.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_btn_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\btn_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_li_message_detail_border.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\li_message_detail_border.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_push_create.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_push_create.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_collection.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\sel_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_push_create.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_push_create.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_btn_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-mdpi\\btn_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_view_empty.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_left_arrow_gray.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\left_arrow_gray.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_loading_dialog.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_condition_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\condition_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_cross.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_drop.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\drop.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_draw_chart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_draw_chart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_learn_note_progress_style.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\learn_note_progress_style.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_savedata_list_activty.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\savedata_list_activty.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_input_bj.9.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-mdpi\\input_bj.9.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_main.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_checkbox_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_cross.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_pickerview_options.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_bg_sliding_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\bg_sliding_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_drop.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\drop.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_push_condition.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\dialog_push_condition.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_zhuxing_fragment.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_zhuxing_fragment.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_cross.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_yellow_button_bj.9.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-mdpi\\yellow_button_bj.9.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_combined.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_combined.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_tu_select.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\tu_select.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_learn_note_left.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\learn_note_left.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_save.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_rect.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_rect.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_welecome.jpg.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\welecome.jpg"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_collection.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_fang_check_n.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\fang_check_n.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_bingxing_fragment.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_bingxing_fragment.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_log.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\log.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_include_pickerview_topbar.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_function_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_function_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_setting_popwindow.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\setting_popwindow.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_barchart_sinus.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_barchart_sinus.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_linechart_noseekbar.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_linechart_noseekbar.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_shoujibaobiao.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\shoujibaobiao.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_li_message_detail_header_border.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\li_message_detail_header_border.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_push_create_setting.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_push_create_setting.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_boarding_list_item_click_style.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\boarding_list_item_click_style.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_marker2.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\marker2.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_pop_view.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\pop_view.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_spinner_item_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\spinner_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_fang_check_style.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\fang_check_style.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_theme_item_head.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\theme_item_head.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_theme_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\theme_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_sel_message.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\sel_message.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_message.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_rect.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_rect.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_myspinner.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\myspinner.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_left_arrow_gray.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\left_arrow_gray.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_collection_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_collection_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_loading.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_message_detail.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_message_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_button_text_color.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\button_text_color.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_message_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_message_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_yuanjiao_bj.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\yuanjiao_bj.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_act_condition_fragment_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\act_condition_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_shaixuan.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\shaixuan.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_webview_activity_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\webview_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_savedata_list_activty_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\savedata_list_activty_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_shaixuan_dat_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\shaixuan_dat_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_function.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_function.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_save_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\save_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_performance_linechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_performance_linechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_appri.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\appri.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_candlechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_candlechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_age_distribution.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_age_distribution.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_frag_simple_bar.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\frag_simple_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_add_button_style.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\add_button_style.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_checkbox_not_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\ic_checkbox_not_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_bubblechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_bubblechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_xiugai_mima.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\xiugai_mima.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_appyue.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\appyue.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_collection_cancel.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\btn_collection_cancel.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_shaixuan_time_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\shaixuan_time_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_rect.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_rect.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_menu_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\menu_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_radio_unchecked.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\android-segmented-1.0.6.aar\\2d709a3d28ac1768b7e3e811616fd9af\\res\\drawable\\radio_unchecked.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_message.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_message_detail.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_message_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_push_condition.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_push_condition.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_awesomedesign.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_awesomedesign.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_horizontalbarchart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_horizontalbarchart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_btn_collection_cancel.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-mdpi\\btn_collection_cancel.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_option_item.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\option_item.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_pickerview_btn.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_appri.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\appri.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_message.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_message.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_spinner_selector.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\spinner_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_function_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_function_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_collection_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_welecom.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\welecom.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_appyue.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\appyue.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_right.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_btn_collection_cancel.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xxhdpi\\btn_collection_cancel.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_function.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_function.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_frag_simple_scatter.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\frag_simple_scatter.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_appri.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\appri.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_realtime_linechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_realtime_linechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_loading_animation.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_piechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_piechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_fang_check_p.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\fang_check_p.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_duoweifenxi.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\duoweifenxi.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_left.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_system_helper.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_system_helper.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_cross.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_cross.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_select_popwindow_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\select_popwindow_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_baobiao_mulu_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\baobiao_mulu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_drop_yellow.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\drop_yellow.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_function_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_function_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_message_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_message_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_back_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_log.jpg.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\log.jpg"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item_linechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\list_item_linechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_appri.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\appri.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\hq\\.gradle\\caches\\transforms-1\\files-1.1\\pickerview-2.0.8.aar\\66fa545876a22a8ca665844666ccb47e\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_collection_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\ic_collection_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_rect.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_rect.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_piechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_piechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_scrollview.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_scrollview.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_thiem_fragment_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\thiem_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_function.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_function.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_colored_lines.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_colored_lines.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_function.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_function.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_function.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_function.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_push_create_border.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\push_create_border.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_linechart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_linechart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_input_right_bj.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\input_right_bj.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_save.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_appyue.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\appyue.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_rect.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\ic_rect.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_push_dim.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\fragment_push_dim.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_appri.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-mdpi\\appri.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_frag_simple_line.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\frag_simple_line.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_push_setting_list.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_push_setting_list.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_form_fragment_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\form_fragment_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_delete_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-xhdpi\\delete_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_appyue.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxxhdpi\\appyue.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_input_right01.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\input_right01.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_user_msg_layout.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\user_msg_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_tiaoxing_fragment.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_tiaoxing_fragment.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_collection_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-hdpi\\ic_collection_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tb_push_create.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tb_push_create.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_collection.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable-hdpi\\btn_collection.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_input_edittext_bj_new.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\input_edittext_bj_new.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_radarchart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_radarchart.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_tu_quxian_fragment.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\tu_quxian_fragment.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_collection_selected.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_collection_selected.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_zhuxiao_icon.png.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\mipmap-xhdpi\\zhuxiao_icon.png"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\drawable_edit_bg_shape.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\drawable\\edit_bg_shape.xml"
+    },
+    {
+        "merged": "E:\\work\\MobileBI\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_barchart.xml.flat",
+        "source": "E:\\work\\MobileBI\\app\\src\\main\\res\\layout\\activity_barchart.xml"
+    }
+]

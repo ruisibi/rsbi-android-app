@@ -1,0 +1,4 @@
+#Sun Jan 28 20:43:22 CST 2018
+base.0=E\:\\work\\MobileBI\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/ThemeAdapter_list_head"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#F0F4F7"
+        android:gravity="center_vertical"
+        android:paddingLeft="11dp"
+        android:text="常用"
+        android:textColor="#44B7F2"
+        android:textSize="16sp" />
+
+</LinearLayout>

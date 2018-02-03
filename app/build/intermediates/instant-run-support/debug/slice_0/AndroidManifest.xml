@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.ruisi.bi.app"
+      android:versionCode="20180128"
+      android:versionName="3.0180128"
+      split="lib_slice_0_apk">
+</manifest>

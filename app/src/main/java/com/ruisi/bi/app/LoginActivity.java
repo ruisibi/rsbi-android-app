@@ -93,20 +93,12 @@ public class LoginActivity extends Activity implements OnClickListener,
 
     private void setLisener() {
         bt_commit.setOnClickListener(this);
-        findViewById(R.id.getCount).setOnClickListener(this);
+        //findViewById(R.id.getCount).setOnClickListener(this);
     }
 
     @Override
     public void onClick(View arg0) {
         switch (arg0.getId()) {
-            case R.id.getCount:
-                Intent intent = new Intent();
-                intent.setAction("android.intent.action.VIEW");
-                Uri content_url = Uri.parse("http://www.ruisitech.com/appsy.html");
-                intent.setData(content_url);
-                startActivity(intent);
-
-                break;
             case R.id.LoginActivity_commit:
                 LoadingDialog.createLoadingDialog(this);
                 String ip = drop_edit.getText().toString();

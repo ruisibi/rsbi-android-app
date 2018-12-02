@@ -196,7 +196,7 @@ public class ServerUrlConnection implements Runnable {
 		try {
 			response = client.newCall(request).execute();
 			String cookie = response.header("Cookie");
-			System.out.print("cookie = " + cookie);
+			//System.out.print("cookie = " + cookie);
 			String jsonStr = response.body().string();
 			try {
 				System.out.println("jsonStr---->" + finalUrl + "---->" + jsonStr);

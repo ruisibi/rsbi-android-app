@@ -160,22 +160,12 @@
         android:text="登录"
         android:textColor="@color/white"
         android:textSize="18sp" />
-    <TextView
-        android:id="@+id/getCount"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginBottom="20dp"
-        android:layout_marginRight="20dp"
-        android:gravity="center"
-        android:text="获取试用账号"
-        android:textSize="18sp" />
      <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="bottom|center"
         android:paddingBottom="15dp"
-        android:text="北京睿思科技有限公司\n版权所有"
+        android:text="成都睿思商智科技有限公司\n版权所有"
         android:textSize="18sp" />
 
 </LinearLayout>

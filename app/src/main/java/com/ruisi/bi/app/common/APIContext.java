@@ -17,7 +17,7 @@ public class APIContext {
     /** ======================接口基地�?=============================== */
 
 //    public static  String HOST = "http://112.124.13.251:8081/bi/";
-    public static String HOST = "http://bi.rosetech.cn/";
+    public static String HOST = "https://www.ruisitech.com/cloud";
 
     public static final String Login="app/Login!login.action";
     public static final String Menu="app/Menus!topMenu.action";
